@@ -1,1 +1,1 @@
-# basket
+this repository is my first project, so there you can make your own "basket" to buy smt. On your computer will appear new file "corz.txt" there you can see what do you want to buy and how much money you should take with you
